@@ -29,7 +29,8 @@ Our vision is to democratize the art world by creating a decentralized ecosystem
 
 ### Phase 2 - Marketplace Integration
 - Direct artwork purchase functionality
-- Auction system for high-value pieces
+- Auction system for high-value pieces<img width="1428" alt="screenshot (3)" src="https://github.com/user-attachments/assets/d9811e2e-f8e7-47f0-a4a6-269a97749146" />
+
 - Secondary market for artwork trading
 - Royalty distribution system for artists
 
@@ -153,4 +154,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 *"Art is the most intense mode of individualism that the world has known." - Oscar Wilde*
 
-Transform the art world with blockchain technology. Create, showcase, and preserve art for generations to come.
+Transform the art world with blockchain technology. Create, sh
+owcase, and preserve art for generations to come.
+
+<img width="1428" alt="screenshot (3)" src="https://github.com/user-attachments/assets/da83693e-67a1-4c0e-a8f6-d2bad5158c63" />
