@@ -61,8 +61,8 @@ Our vision is to democratize the art world by creating a decentralized ecosystem
 
 ## Contract Address
 
-**Testnet Contract Address**: `ST2EV4JDJQKWQV13H0VVHG66ABCTR1P8YR596CHR6.decentralized-art-gallery`
-
+**Testnet Contract Address**:
+   `STGPBEW1DRVNA80A863AYGPGNJ91SYNBYKTZK0QB.decentralized-art-gallery`
 ### Contract Functions
 
 #### Public Functions:
@@ -119,7 +119,8 @@ Our vision is to democratize the art world by creating a decentralized ecosystem
 
 ### Data Structure
 
-Each artwork contains:
+Each artwork contains:x
+
 - **Title**: Artwork name (max 64 characters)
 - **Artist**: Principal address of the creator
 - **Description**: Detailed artwork description (max 256 characters)
