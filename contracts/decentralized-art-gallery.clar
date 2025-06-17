@@ -1,4 +1,3 @@
-]
 ;; Constants
 (define-data-var next-artwork-id uint u1)
 
