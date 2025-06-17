@@ -1,4 +1,4 @@
-Decentralized Art Gallery
+]
 ;; Constants
 (define-data-var next-artwork-id uint u1)
 
